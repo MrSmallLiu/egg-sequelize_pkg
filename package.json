@@ -1,6 +1,6 @@
 {
   "name": "egg-sequelize_pkg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "egg.js打包用的egg-sequelize",
   "eggPlugin": {
     "name": "sequelizePkg"
@@ -49,10 +49,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-sequelize_pkg.git"
+    "url": "git+https://github.com/MrSmallLiu/egg-sequelize_pkg"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/MrSmallLiu/egg-sequelize_pkg/issues"
   },
   "homepage": "https://github.com/MrSmallLiu",
   "author": "lh",
